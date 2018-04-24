@@ -62,18 +62,5 @@
         }
     };
 
-    // active class toggle on menu link clicks
-    // var el = document.querySelector('.nav');
-    // console.log(el);
-    // console.log("=============================");
-    // el.onclick = function() {
-    // el.classList.toggle('pure-menu-selected');
-    // }  var el = document.querySelector('.nav');
-    // console.log(el);
-    // console.log("=============================");
-    // el.onclick = function() {
-    // el.classList.toggle('pure-menu-selected');
-    // }
-
   
 }(this, this.document));
